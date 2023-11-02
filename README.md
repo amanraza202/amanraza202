@@ -15,6 +15,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanraza202&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanraza202&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<h1> Leetcode </h1>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/amanraza202?ext=activity)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amanraza202&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
