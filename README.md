@@ -17,7 +17,7 @@
 
 <h1> Leetcode </h1>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/amanraza202?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/amanraza902?ext=activity)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amanraza202&theme=radical&no-frame=false&no-bg=true&margin-w=4)
